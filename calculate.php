@@ -17,8 +17,9 @@
     <br>
     <p style='color:red'>
     <?php
-
-
+        echo "ความยาว เท่ากับ ".$length."<br>";
+        echo "ความกว้าง เท่ากับ ".$width."<br>";
+        echo "พื้นที่สี่เหลี่ยมผืนผ้า เท่ากับ ".$area;
     ?>
     </p>
 </body>
